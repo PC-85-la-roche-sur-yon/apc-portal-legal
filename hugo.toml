@@ -1,0 +1,13 @@
+baseURL = 'https://pc-85-la-roche-sur-yon.github.io/apc-portal-legal/'
+languageCode = 'fr-FR'
+title = 'APC Portal - Legal'
+theme = "apc-theme"
+defaultContentLanguage = "fr"
+
+[params]
+description = "Mentions légales pour APC Portal"
+author = "Commission Numérique - APC 85 la Roche / Essart"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

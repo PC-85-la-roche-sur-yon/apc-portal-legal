@@ -1,0 +1,31 @@
+# Hugo default output directory
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+/hugo_stats.json
+
+# Hugo cache
+/.hugo_build.lock
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*~
