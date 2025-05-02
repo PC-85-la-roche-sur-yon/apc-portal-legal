@@ -8,7 +8,7 @@ draft: false
 
 ## **1. Préambule**
 
-L'Association de Protection Civile de Vendée - Antenne de la roche sur yon, association loi 1901, développe et met à disposition une application mobile ("APC Portal") destinée exclusivement à ses membres.
+L'Association de Protection Civile de Vendée - Antenne de la Roche sur Yon / Essart, association loi 1901, développe et met à disposition une application mobile ("APC Portal") destinée exclusivement à ses membres.
 
 Cette Politique de Confidentialité explique comment nous collectons, utilisons et protégeons vos données personnelles dans le respect du Règlement Général sur la Protection des Données (RGPD).
 
@@ -19,7 +19,8 @@ Nous collectons uniquement les données nécessaires au bon fonctionnement de l'
 * **Données d'inscription** : Nom, prénom, adresse e-mail, numéro de téléphone (facultatif), avatar (facultatif)  
 * **Informations relatives aux commissions** : Rôle et appartenance aux commissions internes  
 * **Logs d'activité** : Date et heure des connexions, modifications de profil, actions effectuées dans l'Application  
-* **Données techniques** : Adresse IP, modèle de l'appareil, version du système d'exploitation
+* **Données techniques** : Adresse IP, modèle de l'appareil, version du système d'exploitation  
+* **Données de géolocalisation** : Position géographique en temps réel ou approximative (si activée par l'utilisateur), enregistrée uniquement au moment de la prise et de la restitution d'un véhicule.  
 
 ## **3. Finalités du Traitement des Données**
 
@@ -29,7 +30,8 @@ Les données collectées ont pour but de :
 * Faciliter la gestion des véhicules et de l'inventaire matériel  
 * Permettre la communication entre les membres via une messagerie interne  
 * Envoyer des notifications via OneSignal (possiblement via Firebase)  
-* Assurer la sécurité et le bon fonctionnement de l'Application
+* Assurer la sécurité et le bon fonctionnement de l'Application  
+* Suivre et documenter les trajets des véhicules, incluant le point de départ et le point d'arrivée, pour assurer leur suivi.  
 
 ## **4. Base Légale du Traitement**
 
@@ -54,8 +56,7 @@ Le traitement des données repose sur :
 ## **7. Partage des Données avec des Tiers**
 
 * Aucune donnée personnelle n'est vendue ou cédée à des tiers.  
-* Les notifications sont gérées par **OneSignal**, qui peut impliquer un transfert de données en dehors de l'UE (via Firebase).  
-* En cas d'obligation légale, nous pouvons être amenés à partager des données avec les autorités compétentes.
+* En cas d'obligation légale, nous pouvons être amenés à partager des données avec les autorités compétentes.  
 
 ## **8. Droits des Utilisateurs**
 
@@ -67,7 +68,7 @@ Conformément au RGPD, vous disposez des droits suivants sur vos données :
 * **Opposition** : Vous pouvez vous opposer à certains traitements.  
 * **Portabilité** : Vous pouvez demander à récupérer vos données dans un format lisible.
 
-Pour exercer ces droits, contactez l'administrateur à : **<laroche-essarts@protection-civile-vendee.org>**.
+Pour exercer ces droits, contactez l'administrateur à : **<numerique.larocheessarts@protection-civile-vendee.org>**.
 
 ## **9. Modifications de la Politique de Confidentialité**
 
@@ -75,4 +76,4 @@ Cette politique peut être mise à jour à tout moment. Les utilisateurs seront 
 
 ## **10. Contact**
 
-Pour toute question relative à la présente politique ou à la gestion des données personnelles, vous pouvez nous contacter à : **<laroche-essarts@protection-civile-vendee.org>**.
+Pour toute question relative à la présente politique ou à la gestion des données personnelles, vous pouvez nous contacter à : **<numerique.larocheessarts@protection-civile-vendee.org>**.

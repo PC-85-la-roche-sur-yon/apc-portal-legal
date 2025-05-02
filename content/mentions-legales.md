@@ -8,7 +8,7 @@ draft: false
 
 ## **1. Éditeur de l'Application**
 
-L'application mobile (« l'Application ») est développée et mise à disposition par l'**Association Départementale de Protection Civile de Vendée (ADPC 85\)**, une association de loi 1901.
+L'application mobile (« APC Portal ») est développée et mise à disposition par l'**Antenne de Protection Civile de La Roche sur Yon / Essarts**, appartenant à l'**Association Départementale de Protection Civile de Vendée (APC 85)**, une association de loi 1901.
 
 * **Dénomination sociale :** Association Protection Civile de Vendée - Antenne de la roche sur yon  
 * **Siège social :** 135 RUE D AUBIGNY 85000 LA ROCHE SUR YON FR
@@ -36,4 +36,4 @@ L'Association collecte et traite des données personnelles dans le respect du R�
 
 ## **6. Contact**
 
-Pour toute question relative aux présentes mentions légales ou à l'Application, vous pouvez contacter l'Association à l'adresse suivante : **<laroche-essarts@protection-civile-vendee.org>**.
+Pour toute question relative aux présentes mentions légales ou à l'Application, vous pouvez contacter l'Association à l'adresse suivante : **<numerique.larocheessarts@protection-civile-vendee.org>**.

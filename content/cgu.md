@@ -6,15 +6,15 @@ title: "Conditions Générales d'Utilisation (CGU)"
 
 ## **1. Préambule**
 
-L'application mobile (« APC Portal ») est développée par et pour les membres de l'Association de Protection Civile de Vendée - Antenne de la la roche sur yon, une association loi 1901. Son objectif est de faciliter la gestion interne de l'antenne, notamment en ce qui concerne les véhicules, l'inventaire du matériel et, à terme, la communication entre membres via une messagerie interne.
+L'application mobile (« APC Portal ») est développée par et pour les membres de l'Association de Protection Civile de Vendée - Antenne de  La Roche sur Yon / Essarts , une association loi 1901. Son objectif est de faciliter la gestion interne de l'antenne, notamment en ce qui concerne les véhicules, l'inventaire du matériel et, à terme, la communication entre membres via une messagerie interne.
 
 L'utilisation de l'Application implique l'acceptation sans réserve des présentes Conditions Générales d'Utilisation (CGU).
 
 ## **2. Accès et Inscription**
 
-* L'Application est réservée aux membres actifs de l'Association.  
-* L'inscription se fait sur une base volontaire mais pourra devenir obligatoire à l'avenir pour accéder à certaines activités de l'Association.  
-* Chaque inscription est soumise à validation par un administrateur.  
+* L'Application est réservée aux membres actifs de l'Association de la Protection Civile Vendée - La Roche sur Yon / Essarts.  
+* L'inscription se fait sur invitation d'un responsable de l'antenne.  
+* Tout adhérent à l'antenne de la Protection Civile Vendée - La Roche sur Yon / Essarts sera invité à utiliser l'Application.  
 * Le partage de compte est strictement interdit.
 
 ## **3. Données Collectées et Protection des Données Personnelles**
@@ -65,4 +65,4 @@ Les présentes CGU peuvent être modifiées à tout moment. En cas de modificati
 
 ## **6. Contact**
 
-Pour toute question ou demande relative aux présentes CGU ou à la gestion des données personnelles, vous pouvez contacter l'administration de l'Application à l'adresse suivante : **<laroche-essarts@protection-civile-vendee.org>**.
+Pour toute question ou demande relative aux présentes CGU ou à la gestion des données personnelles, vous pouvez contacter l'administration de l'Application à l'adresse suivante : **<numerique.larocheessarts@protection-civile-vendee.org>**.
